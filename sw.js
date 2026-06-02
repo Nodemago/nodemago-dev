@@ -1,6 +1,6 @@
 var CACHE_NAME = 'nodemago-v2';
 var CACHE_URLS = [
-  '/nodemago/'
+  '/nodemago-dev/'
 ];
 // インストール時にHTMLをキャッシュ
 self.addEventListener('install', function(e) {
